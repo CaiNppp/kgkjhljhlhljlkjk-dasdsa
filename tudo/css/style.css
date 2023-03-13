@@ -1,6 +1,6 @@
 * {
   margin: 0;
-  background-color: var(--Rosa-Fraco);
+  background-color:black;
   box-sizing: border-box;
 }
 
@@ -95,7 +95,7 @@ li:nth-last-child(3) {
   text-transform: uppercase;
   font-weight: none;
   font-size: 45px;
-  color: hsl(286, 96%, 9%);
+  color: hsl(0, 0%, 100%);
 }
 
 .Titulo {
